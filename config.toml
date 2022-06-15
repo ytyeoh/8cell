@@ -1,6 +1,5 @@
 # SETUP
 baseurl = "https://ytyeoh.github.io/8cell/"
-# baseurl = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 publishdir = "public"
@@ -12,11 +11,11 @@ disableKinds = ["RSS","taxonomy","taxonomyTerm"] # disable hugo's content that w
 googleAnalytics = "" # if needed...
 
 [author]
-    name = "8cell"
-    email = "8cell"
+    name = "8Cell"
+    email = "awe.some@example.com"
 
 [params]
-    description = "8cell Website" # page description -> see ./layouts/partials/head.html
+    description = "AWE.SOME - A Landing Page Template for Hugo" # page description -> see ./layouts/partials/head.html
     images = [] #add images here as "img/name.ext" (points to s./static/img/) to populate the default og and twitter <meta> attributes -> see ./layouts/partials/head.html
 
 # these items will be rendered 1. into a tooltip in the navbar and 2. into the footer - consider that there's limited space when adding more items -> see ./layouts/partials
