@@ -1,5 +1,6 @@
 # SETUP
-baseurl = "https://ytyeoh.github.io/8cell/"
+# baseurl = "https://ytyeoh.github.io/8cell/"
+baseurl = "https://8cellsbeautylab.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 publishdir = "public"
