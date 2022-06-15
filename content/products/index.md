@@ -29,4 +29,10 @@ product_6_title: 'multi-peptide renewal booster'
 product_6_image: 'products/a6.jpg'
 product_6_desc: 'Elasticity, Firmness, Moisturizing, Even Skin Tone and Texture, Discoluoration, Early Signs of Aging, Lifting/Firming, Collagen Production, Age-Defying, Discolouration, Early Signs of Ageing, Firming, Hydration, Restorative, Revitalising, Skin Firming, Skin Tightening, Tone, Wrinkles.'
 product_6_image2: 'img/products/a6a.png'
+
+
+product_7_title: 'HA Regenerative Serum'
+product_7_image: 'products/a5.jpg'
+product_7_desc: "Build from the world’s best hyaluronic acid that originate from Germany, strengthen blood circulation, improve metabolism, enhance skin's absorption of nutrients and skin elasticity by effectively penetrate deep into the dermis.  Also, it can promote the proliferation and differentiation of epidermal cells to repair and prevent skin damage and delay skin aging.  Effectively lock in moisture by forming a breathable film on the surface of the skin. The moisturizing effect is ten times that of ordinary hyaluronic acid. A simple smear and you will have a translucent and supple skin"
+product_7_image2: 'img/products/a7.jpeg'
 ---

@@ -28,4 +28,9 @@ product_6_title: '多肽精华液'
 product_6_image: 'products/a6.jpg'
 product_6_desc: '有效改善肌肤粗糙、让肌肤回復弹力、柔嫩、丰盈。有效舒缓皮肤紧张、修护并滋润破损细胞并且保湿。特殊配方不黏腻、不油腻、温和好吸收。'
 product_6_image2: 'img/products/a6a.png'
+
+product_7_title: '高浓保湿玻尿酸精华'
+product_7_image: 'products/a5.jpg'
+product_7_desc: "由产自于德国的世界顶尖玻尿酸原料所打造，能够有效的深入真皮层加强血液循环，改善新陈代谢，提升皮肤对营养的吸收并且增加皮肤弹性。同时，还能够促进表皮细胞的增殖与分化，达到预防以及修护皮肤损伤，延缓皮肤老化。还可以再皮肤表层形成一层透气膜，有效的锁住水分，补水效果是普通玻尿酸的十倍，只要简单的涂抹就能够拥有透亮的水嫩肌肤。"
+product_7_image2: 'img/products/a7.jpeg'
 ---
