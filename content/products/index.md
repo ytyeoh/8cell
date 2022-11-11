@@ -35,4 +35,9 @@ product_7_title: 'HA Regenerative Serum'
 product_7_image: 'products/a5.jpg'
 product_7_desc: "Build from the world’s best hyaluronic acid that originate from Germany, strengthen blood circulation, improve metabolism, enhance skin's absorption of nutrients and skin elasticity by effectively penetrate deep into the dermis.  Also, it can promote the proliferation and differentiation of epidermal cells to repair and prevent skin damage and delay skin aging.  Effectively lock in moisture by forming a breathable film on the surface of the skin. The moisturizing effect is ten times that of ordinary hyaluronic acid. A simple smear and you will have a translucent and supple skin"
 product_7_image2: 'img/products/a7.jpeg'
+
+product_8_title: 'First Essence Treatment'
+product_8_image: 'products/a4.png'
+product_8_desc: "It special formulated with Galactomyces/Betula Platyphylla Japonica Jiuce and containing over 10 natural herb extracts to keep your skin's natural renewal cycle in the optimum condition for skin nourishment. It encourages your cells to regenerate, reversing the signs of ageing and works to balance sebum secretion."
+product_8_image2: 'img/products/a8.png'
 ---

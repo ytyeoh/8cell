@@ -33,4 +33,10 @@ product_7_title: '高浓保湿玻尿酸精华'
 product_7_image: 'products/a5.jpg'
 product_7_desc: "由产自于德国的世界顶尖玻尿酸原料所打造，能够有效的深入真皮层加强血液循环，改善新陈代谢，提升皮肤对营养的吸收并且增加皮肤弹性。同时，还能够促进表皮细胞的增殖与分化，达到预防以及修护皮肤损伤，延缓皮肤老化。还可以再皮肤表层形成一层透气膜，有效的锁住水分，补水效果是普通玻尿酸的十倍，只要简单的涂抹就能够拥有透亮的水嫩肌肤。"
 product_7_image2: 'img/products/a7.jpeg'
+
+
+product_8_title: 'First Essence Treatment'
+product_8_image: 'products/a4.png'
+product_8_desc: "采用半乳酵母/白桦树汁特别配采用半乳酵母/白桦树汁特别配制，并含有超过 10 种天然草本提取物，滋润您的皮肤并将其更新周期保持在最佳状态。促进皮肤细胞的再生，同时逆转衰老迹象并平衡皮脂分泌。"
+product_8_image2: 'img/products/a8.png'
 ---
